@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'Astakhov Skin';
+  src: url(fonts/AstakhovSkin.otf);
+}
+
+@font-face {
+  font-family: 'Keep Calm';
+  src: url(fonts/KeepCalm-Medium.ttf);
+}
+
+html {
+    background: black;
+}
+
+.head {
+	background: #143A8F linear-gradient(135deg,#2c5BAB 50%,#649EDB 50%) no-repeat !important;
+}
+
+.availble {
+	position: absolute;
+    font-family: "Keep Calm";
+    color: black;
+}
+
+.av_av {
+	top: 100px;
+    left: 590px;
+	font-size: 20pt;
+}
+
+.av_now {
+	top: 110px;
+    left: 479px;
+	font-size: 46pt;
+}
+
+.soul {
+	position: absolute;
+    font-family: "Keep Calm";
+    top: 250px;
+    left: 720px;
+	font-size: 12pt;
+    color: #0055A8 !important;
+}
+
+.doc {
+	position: absolute;
+    font-family: "Keep Calm";
+    top: 310px;
+    left: 672px;
+	font-size: 12pt;
+    color: #0055A8 !important;
+}
+
+.git {
+	position: absolute;
+    font-family: "Keep Calm";
+    top: 370px;
+    left: 715px;
+	font-size: 12pt;
+    color: #0055A8 !important;
+}
