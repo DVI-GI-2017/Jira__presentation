@@ -1,4 +1,4 @@
-[Presentation](https://vladpereskokov.github.io/presentation-soul-hunting/)
+[Presentation](https://dvi-gi-2017.github.io/Jira__presentation/)
 
 ## PDF
 
