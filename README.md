@@ -1,4 +1,4 @@
-[Presentation](https://dvi-gi-2017.github.io/Jira__presentation/)
+[Presentation](https://dvi-gi-2017.github.io/Jira__presentation/)  
 [pdf](http://bit.ly/2wdj9UO)
 
 ## PDF
